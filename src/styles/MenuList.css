@@ -1,0 +1,11 @@
+.MenuContainer{
+    width: 450px;
+    height: 500px;
+    background-color: aqua;
+    border:1px solid black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+   
+  
+}
